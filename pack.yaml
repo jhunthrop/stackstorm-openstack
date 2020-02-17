@@ -5,6 +5,8 @@ keywords:
   - openstack
   - private cloud
 version: 0.7.2
+python_versions:
+  - "2"
 author: StackStorm Engineering Team
 email: support@stackstorm.com
 contributors:
